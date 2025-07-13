@@ -1,4 +1,4 @@
-# 💊 Medical Insurance Charges Predictor
+# 💊 Medical Insurance Charges Predictor - [	👀 Try It Out!](https://medical-insurance-predictorr.streamlit.app/)
 
 A simple, intuitive web app built with **Streamlit** that predicts the estimated **medical insurance cost** based on user input like age, BMI, number of children, region, and smoking status.
 
